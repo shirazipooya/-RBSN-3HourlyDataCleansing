@@ -1,2 +1,1 @@
-# RBSN Weather Data Cleansing
-Data Cleansing of RBSN 3 Hourly Data from I.R. of Iran Meteorological Organization (IRIMO).
+# Data Cleansing of 3 Hourly Data of IRAN RBSN Stations
